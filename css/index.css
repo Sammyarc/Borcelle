@@ -1300,6 +1300,9 @@
 
    /**************screens smaller than 321px ********/
    @media screen and (max-width:321px){
+    body{
+     max-width:320px;
+    }
       .header{
          margin: 15px;
          gap: 150px;
