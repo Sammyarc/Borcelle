@@ -1309,7 +1309,7 @@
     }
       .header{
          margin: 15px;
-         gap: 150px;
+         gap: 140px;
       }
       .cta{
          margin-left: 10px;
@@ -1332,11 +1332,11 @@
          width: 270px;
       }
       .top-grid1{
-         width: 280px;
+         width: 270px;
          height: 180px;
       }
       .recent-grid1{
-         width: 280px;
+         width: 270px;
          height: 180px;
       }
       .footer-cta{
