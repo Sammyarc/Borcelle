@@ -1162,6 +1162,10 @@
 
   /**************screens smaller than 451px ********/
   @media screen and (max-width:451px){
+     html, body{
+      width: 100%;
+      overflow-x: hidden;
+   }
    .header{
       margin: 15px;
       gap: 250px;
