@@ -1224,11 +1224,12 @@
       font-size: 12px;
    }
    .current-amt, .prev-amt{
-      font-size: 11px;
+      font-size: 12px;
    }
    .percent{
       padding: 3px 10px;
       font-size: 10px;
+      margin-right:10px;
    }
   }
 
@@ -1304,12 +1305,9 @@
 
    /**************screens smaller than 321px ********/
    @media screen and (max-width:321px){
-    body{
-     max-width:320px;
-    }
       .header{
          margin: 15px;
-         gap: 140px;
+         gap: 120px;
       }
       .cta{
          margin-left: 10px;
